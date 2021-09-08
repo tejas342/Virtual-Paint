@@ -19,3 +19,12 @@ Firstly I have created a Module "HandTrackingModule.py", this file contains the 
 Then another file is "VirtualPaint.py", this file uses that HandTrackingModule and contains the code which draw on the screen and provide various features (3 Colors + Eraser), and there is a folder "Paint" which contains the UI for this program.
 
 This project is created in Python-3 language using OpenCV and Mediapipe library.
+
+# Installation
+To run this file you need to install some PYTHON modules, open your CMD and type following commands-
+
+* pip install mediapipe
+* pip install opencv-python
+* pip install numpy
+
+
